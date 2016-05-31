@@ -1,0 +1,15 @@
+{
+  "name": "hko-mqtt",
+  "version": "1.0.0",
+  "description": "mqtt client to push Hong Kong Observatory (HKO) weather updates and storm warnings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hko-scraper": "0.0.4",
+    "mqtt": "^1.10.0"
+  }
+}
